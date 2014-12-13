@@ -1,0 +1,6 @@
+#bg{
+
+background:#000 url(BackgroundImage/images.jpg) no-repeat fixed top center ;
+width; 1400px;
+higeht1200px
+}

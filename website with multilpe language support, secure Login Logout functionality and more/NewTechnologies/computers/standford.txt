@@ -1,0 +1,240 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+    <head>
+        <title>Obaid Habib</title>
+    
+		<link rel="stylesheet" href="../../css/mainmenuestylesheet.css" />
+		<link rel="stylesheet" href="../../css/footercss.css" />
+		<link rel="stylesheet" href="../../css/headercss.css" />
+		
+	
+        <link rel="stylesheet" href="../../css/style.css" type="text/css" media="screen"/>
+		<link rel="stylesheet" href="../../css/slider1.css" type="text/css" media="screen"/>
+		<link rel="stylesheet" href="../../css/stylesocialnetworks.css" />
+		
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	     <script type="text/javascript" src="../../jquery/script.js"></script>
+	
+		<style>
+		#notouch{
+	     margin-top:450px;
+		 margin-left:220px;
+		 margin-right:50px;
+		 width:980px;
+         height:725px;
+         overflow:scroll;
+		 
+         
+             background-clip:content-box;
+                
+		
+		}
+		#bioheading{color:#fcfdfd;}
+		#desc{color:#fcfdfd; font-size:25px;}
+		span{color:#4512d8}
+		
+		</style>
+    </head>
+
+    <body>
+	
+		<div id = "mainpage"class="content">
+			
+			
+			<ul id="sdt_menu" class="sdt_menu">
+				<li>
+					<a href="../../index.html">
+						<img src="Navigationimages/3.jpg" alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">Home</span>
+							<span class="sdt_descr">Where ideas get born</span>
+						</span>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="Navigationimages/1.jpg"alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">Portfolio</span>
+							<span class="sdt_descr">Me And My work</span>
+						</span>
+					</a>
+					<div class="sdt_box">
+							<a href="../../portofolio/whoIam.html">Who I Am</a>
+							<a href="../../portofolio/Skills/skills.html">Skills</a>
+							<a href="#">Photography</a>
+					</div>
+				</li>
+				
+				<li>
+					<a href="#">
+						<img src="Navigationimages/4.jpg" alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">Kashmir</span>
+							<span class="sdt_descr">My Country</span>
+						</span>
+					</a>
+					<div class="sdt_box">
+							<a href="../../Kashmir/History/history.html">History</a>
+							<a href="../../Kashmir/tourism/tourism.html">Tourism</a>
+							<a href="#">Photography</a>
+					</div>
+				</li>
+				
+				<li>
+					<a href="#">
+						<img src="Navigationimages/6.jpg" alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">New Technologies</span>
+							<span class="sdt_descr">Explore what's new</span>
+						</span>
+					</a>
+					<div class="sdt_box">
+						<a href="#">computers</a>
+						<a href="../mobiles/mobiles.html">Mobiles</a>
+						
+					</div>
+				</li>
+				<li>
+					<a href="../../contact/contact.html">
+						<img src="Navigationimages/5.jpg" alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">Contact</span>
+							<span class="sdt_descr">How to reach me</span>
+						</span>
+					</a>
+				</li>
+			</ul>
+		</div>
+       <!--slider -->
+	   <div class="slider">
+      <ul class="slides">
+        <<li><img src="Xiiamges/1.jpg" /></li>
+		<<li><img src="Xiiamges/2.jpg" /></li>
+		<<li><img src="Xiiamges/3.jpg" /></li>
+		<<li><img src="Xiiamges/4.jpg" /></li>
+		<<li><img src="Xiiamges/5.jpg" /></li>
+        
+      </ul>
+	  
+      </div>
+	<div id = "header">
+	<h1 id = "heading">Obaid Habib</h1>
+	</div>
+	
+	<div class ="footerclass" id = "footer">
+	<h1 id = "footertext">DEVOELPED BY : OBAID HABIB </h1>
+	
+	</div>
+	
+       <!--slider -->
+	   <div id="wrapper">
+	  <!-- Social Media Buttons - jQuery -->
+		<ul class="social" id="jquery">
+			
+			
+			<li class="facebook">
+				<a href="http://www.facebook.com/"><strong>Facebook</strong></a>
+			</li>
+			
+			<li class="linkedin">
+				<a href="http://www.linkedin.com/"><strong>LinkedIn</strong></a>
+			</li>
+		
+			<li class="rss">
+				<a href="http://feeds2.feedburner.com/marcofolio"><strong>RSS</strong></a>
+			</li>
+			<li class="twitter">
+				<a href="http://twitter.com/"><strong>Twitter</strong></a>
+			</li>
+		</ul>
+		<!-- /Social Media Buttons - jQuery -->
+		</div>
+	
+	  <div class = "whoiam" id = "notouch">
+	  <h1 id = "bioheading" >XI3 PISTON CONSOLE SET FOR RELEASE ON NOVEMBER 29</h1>
+
+
+
+	  <hr />
+	  <p id = "desc">
+	  
+
+Xi3 Corporation is all set to deliver its Piston Console, revealed earlier this year, on Friday, 
+November 29. Yes, that is the day after Thanksgiving, a shopping holiday commonly known in the 
+United States as Black Friday. Any prospective buyers that opted to pre-order the console  really, 
+it is more of a miniature, modular PC  during or before the SXSW 2013 Gaming Expo earlier this year 
+can expect to receive their Piston on or before November 15.
+<br />
+<br />
+The standard Piston sells for $999 ($899 if you pre-order) and packs in an AMD 3.2GHz Trinity processor,
+ 8GB of DDR3 RAM, a Radeon 7000-series GPU, a 128GB solid-state drive (SSD), and native support for up 
+ to three connected monitors. Buyers have the option of spending more for an upgrade to a larger 
+ SSD – 256GB for an extra $340 and 512GB for an extr a$750 – and the box is fitted with a second
+ drive slot, allowing for up to 1TB of SSD storage, provided you’ve got the money to spend.
+<br />
+<br />
+The real draw of the Piston Console is supposed to be its modular design. The pint sized PC 
+is designed for upgradeability, with the process of cracking it open and swapping parts in 
+and out streamlined around a form factor that climbs just over 4 inches per side. That said, 
+all of this amounts to promises. Xi3 has yet to detail the upgrade process beyond stating that 
+it will release specially designed hardware upgrades as new technology becomes available. The
+ box is too small to fit most standard parts SSDs notwithstanding  so you will need to rely 
+ on Xi3 for upgrades.
+
+It all sounds very nice in theory, but the Piston effectively strips away the chief advantage of 
+going with a gaming PC: upgradeability. Xi3 can promise to make new parts available as much as it
+ wants, but the fact remains this is a completely new and untested product. Will future upgrade
+ options really offer enough variety to satisfy PC gamers that are used to weighing, say a dozen
+ or more graphics card options? Will they even be priced competitively, or will the proprietary 
+ design fetch a higher price? Then, at the other end of the spectrum, will console fans willingly 
+ step up to spend twice (or more) what the upcoming next gen hardware just to get a machine that 
+ they will eventually be able to buy upgrades for?
+ <br />
+<br />
+
+This is the big unknown with the Piston: where exactly does it fall in the consumer landscape? 
+The price tag is awfully high for a console gamer to realistically entertain and the hardware 
+doesn’t appear  for now  to be flexible enough to satisfy the needs of a longtime PC gamer. 
+Valve Softwares recently revealed Steam Machines  which many believed the Piston to be an
+ early version of due to an undisclosed Valve investment in Xi3  only complicate the situation.
+ We have yet to see the hardware or get a sense of how much it costs, but it would appear that these 
+ Steam Machines are in direct competition with the living room-oriented Piston.
+ <br />
+<br />
+
+What do you think of this thing? Do you typically game on PC or console? Do you think the Piston 
+achieves a balance between the two?
+
+
+
+ </p>
+ 
+ 			
+       	  
+
+	  
+	
+	</div>
+        <!-- The JavaScript -->
+	     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+		<script type="text/javascript" src="../../jquery/jquery.easing.1.3.js"></script>
+        <script type="text/javascript" src = "../../jquery/menuejava.js"></script>
+
+        <script src="../../jquery/jquery.blueberry.js"></script>
+		<script src="../../jquery/jquerysliderrun.js"></script>
+		 
+        
+
+
+		
+           
+        
+    </body>
+</html>

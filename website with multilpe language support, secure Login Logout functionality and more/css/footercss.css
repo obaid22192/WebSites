@@ -1,0 +1,35 @@
+#footer{
+	         margin-top:1050px;
+		 margin-left:205px;
+		 margin-right:50px;
+         width:1000px;
+         height:60px;
+		 
+		 
+	 }
+	#footertext {color:#fcfdfd; margin-left:250px;}
+        
+        
+        #footer1{
+	        
+		 margin: -5px auto; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 40px black;
+                  margin-top:200px;
+         width:85%;
+         height:150px;
+            background: rgba(150, 100, 100, 0.6);
+    -pie-background:  rgba(200, 54, 54, 0.5);
+    behavior: url(PIE.htc);
+		 
+		 
+	 }
+         #time{
+         font-size:  30px;
+         font-weight:    400;
+         color: blue;
+        
+    }
+    #ipcol{
+        
+        padding:0px 0px 0px 80px;
+    } 
+	

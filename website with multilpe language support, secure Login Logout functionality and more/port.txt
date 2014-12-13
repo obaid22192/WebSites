@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+    <head>
+        <title>Obaid Habib</title>
+        
+		<link rel="stylesheet" href="../css/mainmenuestylesheet.css" />
+		<link rel="stylesheet" href="css/headercss.css" />
+		<link rel="stylesheet" href="../css/AboutMEcss.css" />
+		<link rel="stylesheet" href="../css/footercss.css" />
+		
+        <link rel="stylesheet" href="../css/style.css" type="text/css" media="screen"/>
+		<link rel="stylesheet" href="../css/slider1.css" type="text/css" media="screen"/>
+		
+    </head>
+
+    <body>
+		<div id = "mainpage"class="content">
+			
+			
+			<ul id="sdt_menu" class="sdt_menu">
+				<li>
+					<a href="../index.html">
+						<img src="../Navigationimages/3.jpg" alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">Home</span>
+							<span class="sdt_descr">Where ideas get born</span>
+						</span>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="../Navigationimages/1.jpg"alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">Portfolio</span>
+							<span class="sdt_descr">Me And My work</span>
+						</span>
+					</a>
+					<div class="sdt_box">
+							<a href="#">Who I Am</a>
+							<a href="#">Skills</a>
+							<a href="#">Photography</a>
+					</div>
+				</li>
+				
+				<li>
+					<a href="#">
+						<img src="../Navigationimages/4.jpg" alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">Kashmir</span>
+							<span class="sdt_descr">My Country</span>
+						</span>
+					</a>
+					<div class="sdt_box">
+							<a href="#">History</a>
+							<a href="#">Tourism</a>
+							<a href="#">Photography</a>
+					</div>
+				</li>
+				
+				<li>
+					<a href="#">
+						<img src="../Navigationimages/6.jpg" alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">New Technologies</span>
+							<span class="sdt_descr">Explore what's new</span>
+						</span>
+					</a>
+					<div class="sdt_box">
+						<a href="#">computers</a>
+						<a href="#">Mobiles</a>
+						
+					</div>
+				</li>
+				<li>
+					<a href="#">
+						<img src="../Navigationimages/5.jpg" alt=""/>
+						<span class="sdt_active"></span>
+						<span class="sdt_wrap">
+							<span class="sdt_link">Contact</span>
+							<span class="sdt_descr">How to reach me</span>
+						</span>
+					</a>
+				</li>
+			</ul>
+		</div>
+       <!--slider -->
+	   <div class="slider">
+      <ul class="slides">
+        <li><img src="../hompagesliderimages/slide1.jpg" /></li>
+        <li><img src="../hompagesliderimages/slide2.jpg" /></li>
+        
+      </ul>
+    </div>
+
+	<!--Who i am -->
+	
+	<div class = "whoiam" id = "id_whoIam">
+	  <h1 id = "bioheading" >About me</h1>
+	  <hr />
+	  <p id = "desc"><img src="images.jpg" alt="Bird" width="200"
+       height="300" align="left" />I was born at <span>Sharja(U.A.E)</span> on <i>23-08-1990.</i>After 3 years my  family moved back to Kashmir. 
+	  I attended school in Kahmir . I attended high school  in 2006 in Pakistan , the year i gained my diploma of Intermediate in computer Sciences(ICS).
+	  I attended school in Kahmir . I attended high school  in 2006 in Pakistan , the year i gained my diploma of Intermediate in computer Sciences(ICS).
+	  In year 2009 i went to Bahria University in Islamabad for my graduation. i was  interested in Computer from beginning i wanted to be computer programmer 
+      i went for <span>Software Engineering  </span>	  i attended two and half years Unfortunately i did not complete 
+      my graduation beacuse in 2012 my family moved to Belgium .  In <span> february 2013 </span> i got admission in Fontys Hogeschool Eindhoven 
+      and i started my studies again from beginning . I am studying ICT in Fonts.   
+       	  
+	  
+ </p>
+	  
+	
+	</div>
+	
+	
+	
+	<!-- who i am -->
+	
+	
+       <!--slider -->
+        <!-- The JavaScript -->
+	     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+		<script type="text/javascript" src="../jquery/jquery.easing.1.3.js"></script>
+        <script type="text/javascript" src = "../jquery/menuejava.js"></script>
+
+        <script src="../jquery/jquery.blueberry.js"></script>
+		<script src="../jquery/jquerysliderrun.js"></script>
+		
+        
+
+
+		
+           
+        
+    </body>
+</html>

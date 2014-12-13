@@ -1,0 +1,45 @@
+#mainpage{
+		 
+		 
+		 width:85%;
+                 height:1200px;
+                 
+                 margin: -5px auto; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 40px black;
+		background: no-repeat fixed top center; 
+               
+                background-clip:content-box;
+                border:5px  #000000
+}
+#mainpage{
+                     
+                background: rgba(150, 100, 100, 0.6);
+    -pie-background:  rgba(200, 54, 54, 0.5);
+    behavior: url(PIE.htc);
+                    
+		 }
+                 
+			 #sdt_menu {
+			 position: absolute;
+			 font_size:100px;
+			 
+                         margin-top:320px;
+
+
+             }
+             #testtop{
+                
+                  width:85%;
+                  height:50px;
+                  margin: -5px auto; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 40px black;
+                 
+                 background:white no-repeat fixed top center; 
+             }          
+			
+		 #page-wrap { width: 82%; margin: 16px auto; padding: 20px;  -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 40px black; }	
+                 #page-wrap {background: rgba(150, 100, 100, 0.6);
+    -pie-background:  rgba(200, 54, 54, 0.5);
+    behavior: url(PIE.htc);}
+                 
+                 #comments{  width: 90%; margin: 60px auto; padding: 60px 30px;
+	    
+		background: #5E768C; border: 1px solid #e1e1e1;}

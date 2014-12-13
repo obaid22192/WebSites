@@ -1,0 +1,22 @@
+#mainpage{
+		 margin-top:-10px;
+		 margin-left:200px;
+		 margin-right:50px;
+		 width:1000px;
+                 height:1200px;
+         
+		background:#333 url(../BackgroundImage/bg.jpg) no-repeat fixed top center; 
+         
+                background-clip:content-box;
+                border:5px dotted #000000
+		 }
+			 #sdt_menu {
+			 position: absolute;
+			 font_size:100px;
+			 
+                         margin-top:320px;
+
+
+             }
+			
+			

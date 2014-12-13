@@ -1,0 +1,14 @@
+.slider {margin-top: -16px; width: 100%; width:300px; height: 420px; }
+.slider .slides {
+	
+	position: relative;
+	overflow: hidden;
+}
+.slider .slides li {
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+}
+.slider .slides li img {border: transparent;border-radius: 8px ;  }
+

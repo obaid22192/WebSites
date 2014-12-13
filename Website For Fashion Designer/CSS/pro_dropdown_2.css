@@ -1,0 +1,138 @@
+/*Start navigation bar for all pages*/
+#nav {padding:0; margin: 0; margin-left: 30%; list-style:none;display: inline-block; height:32px;position:relative; z-index:500; font-family:arial, verdana, sans-serif;background: url(../navigation_bar_images/navbg.gif);}
+#nav li.top {display:block; float:left; height:25px;}
+#nav li a.top_link {  float:left; height:25px; line-height:33px; color:#ccc; text-decoration:none; font-size:14px; font-weight:bold;  cursor:pointer;background: url(../navigation_bar_images/navbg.gif);}
+#nav li a.top_link span {float:left; display:block; padding:0 14px 0 20px; height:25px; }
+#nav li a.top_link span.down {float:left;  display:block; padding:0 14px 5px 20px; height:25px;  background: url(navigation_bar_images/three_0a.gif) no-repeat right top;border-style: solid;border-color: white;border-width: 1px;}
+#nav li a.top_link span.upper {float:left;  display:block; padding:0 14px 5px 20px; height:25px;  background: url(navigation_bar_images/three_0a.gif) no-repeat right top;border-style: solid;border-color: white;border-width: 1px;border-top-left-radius: 6px;}
+#nav li a.top_link span.lower{float:left;  display:block; padding:0 14px 5px 20px; height:25px;  background: url(navigation_bar_images/three_0a.gif) no-repeat right top;border-style: solid;border-color: white;border-width: 1px;border-top-right-radius: 6px;}
+#nav li:hover a.top_link {color:#FFF; }
+#menu{ width: 100%;height :32px;-webkit-box-shadow: 0 0 20px #FF1493; box-shadow: 0 0 30px #FF1493;background: url(../navigation_bar_images/three_0.gif);}
+body {width: 100%;margin:auto;background:url(../bgimage/background.png) no-repeat center center fixed; 
+			-webkit-background-size: cover;
+			-moz-background-size: cover;
+			-o-background-size: cover;
+			background-size:cover;
+                        margin: 0;
+                        padding: 0;
+		}
+#page-wrap { width: 100%;  -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 40px black;  }
+#logotable{  margin-left: 14%; margin-top: -12px;}
+#logotable td{ width :79.2%;}
+#mafctxt{ display: inline-block; margin-top: 1.2%;}
+#main{margin-left: 17%; margin-top: -60px }
+#pageinfo p{font-family: Copperplate, "Copperplate Gothic Light", fantasy; color: #FF1493; font-size: 60px;}
+#pagedesc {margin-top: -65px;}
+@media screen and (-webkit-min-device-pixel-ratio:0) {#pageinfo p{font-family: Copperplate, "Copperplate Gothic Light", fantasy; color: #FF1493; font-size: 50px;} #pageinfo{margin-top: 70px} }
+
+#pageinfo  p span{color: white}
+#pageinfo h2 {padding: 0;margin-top: -10px;}
+#pagedesc h2{font-family: "Brush Script MT", cursive; color: white;}
+           /*End navigation bar for all pages*/ 
+            
+ /*Start index page */
+ #tabletextandimages{width:100%}
+#homepagetext{width :250px; height:100%}
+#homepagetext p {font-size: 20px}
+#box1{background:url(../bgimage/loader.gif) no-repeat center;moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 40px black;width:300px; height: 420px; margin-top: -180px;margin-left: 140px;border: solid;border-color: #FF1493;border-radius: 12px;}
+#box2{width:300px; height: 420px;background:url(../bgimage/loader.gif) no-repeat center;margin-top: -100px;margin-left: -110px;border: solid;border-color: #FF1493;border-radius: 12px}
+#box3{width:300px; height: 420px;background:url(../bgimage/loader.gif) no-repeat center;margin-top: -140px;margin-left: 150px;border: solid;border-color: #FF1493;border-radius: 12px}
+#box4{width:300px; height: 420px;background:url(../bgimage/loader.gif) no-repeat center;margin-left: -110px;margin-top: -100px;border: solid;border-color: #FF1493;border-radius: 12px}
+/*end index page */
+
+/*start Bio page */
+#introduction{width: 81%; border: solid; border-color: #FF1493; moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 40px black; background: url(../Images/bio.jpg) no-repeat center center; position:relative;
+-o-background-size: 100% 100%, auto;
+-moz-background-size: 100% 100%, auto;
+-webkit-background-size: 100% 100%, auto;
+background-size: 100% 100%, auto;}
+
+#biotext{width: 60%; moz-box-shadow: 0 0 20px #FF1493; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 40px #FF1493; margin-left: 200px; margin-top: 60px; background: rgba(150, 100, 100, 0.6);
+    -pie-background:  rgba(200, 54, 54, 0.5);
+    behavior: url(PIE.htc);}
+#biotext p {padding: 60px ;font-size: 18px;}
+/*end Bio page */
+
+/*start lookbooks page */
+#lookbookstable{border-spacing: 20px; }
+
+#collection{margin-top: -200px; color:white;display: inline-block; border:none;}
+
+
+#t1{padding-top: 10px;width: 300px; height:50px;border: solid; border-color: #FF1493;border-radius: 4px; border-width: 1px;margin-left: 70px;text-align: center;font-size: 20px;color: white;padding: auto; moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 40px black;  background: rgba(150, 100, 100, 0.6);
+    -pie-background:  rgba(200, 54, 54, 0.5);}
+#t2 {background: url(img/chain2.png) no-repeat center;width: 100px; height:60px;margin-left: 170px ;margin-bottom: 0; margin-top:-35px;}
+@media screen and (-webkit-min-device-pixel-ratio:0) {#t1{width: 300px; height:50px;border: solid; border-color: #FF1493;border-radius: 4px; border-width: 1px;margin-left:70px; } #t2 {background: url(img/chain2.png) no-repeat center;width: 100px; height:60px;margin-left: 170px ;margin-bottom: 0; margin-top:-35px;}}
+
+/*end lookbooks page */
+
+/*start sales page */
+#sale{width: 86%;padding: 0;margin: 0;  -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 40px black; border: solid; border-color: #FF1493;border-radius: 1px; border-width: 3px;  background: rgba(0, 0, 0, 0.6);
+    -pie-background:  rgba(200, 54, 54, 0.5);
+    behavior: url(PIE.htc);}
+#tablesles{width: 100% !important;margin-top: -2px;margin-left: -3px}
+#tablesles img{
+    opacity: 1.0;
+    transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -webkit-transition: opacity 1s ease-in-out;
+    border: solid; border-color: white;border-radius: 1px; border-width: 1px;
+}
+#tablesles img:hover
+{opacity: 0.6;
+    transition: opacity .55s ease-in-out;
+    -moz-transition: opacity .55s ease-in-out;
+    -webkit-transition: opacity .55s ease-in-out;border: solid; border-color: blue;border-radius: 1px; border-width: 3px;}
+
+/*end sales  page */
+
+
+/*start video  page */
+#videodiv{width: 85%;padding: 0;margin: 0;  -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 40px black; border: solid; border-color: #FF1493;border-radius: 1px; border-width: 3px; background: rgba(0, 0, 0, 0.6);
+    -pie-background:  rgba(200, 54, 54, 0.5);
+    behavior: url(PIE.htc);}
+#videotable{width: 100%; padding: 0;margin: 0;}
+
+/*end video  page */
+/*Start media  page */
+
+#mediadiv{width: 85%;padding: 0;margin: 0;  -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 40px black; border: solid; border-color: #FF1493;border-radius: 1px; border-width: 3px; background: rgba(0, 0, 0, 0.6);
+    -pie-background:  rgba(200, 54, 54, 0.5);
+    behavior: url(PIE.htc);}
+#mediatable{border-spacing: 40px}
+#mediadiv h3{font-family: Copperplate, "Copperplate Gothic Light", fantasy; color: white ;text-align: center;}
+#fe{font-family: "Brush Script MT", cursive; color: #FF1493 ; margin-top: -25px;margin-left: 30px ;text-align: center;}
+#mcol1{color: #C71585; font-size: 18px; }
+#mcol2{color: #B0C4DE; font-size: 18px}
+#mediadiv a{color: white;text-decoration:none; }
+#div1 {
+    display: inline-block;width: 28%; padding: 10px;
+}
+
+#div2 {
+    display: inline-block;width: 33%;border-left:  1px solid  white;border-right: 1px solid  white;padding: 20px;margin-top:40px
+}
+#div3 {
+    display: inline-block;width: 26%; padding: 10px;margin-left: 15px;
+}
+#div3 p{color: white;text-align: center}
+
+/*end media  page */
+
+/*start contact  page */
+#contactholder{padding: 30px;width: 85%; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 40px black; border: solid; border-color: #FF1493;border-radius: 1px; border-width: 3px; background: rgba(0, 0, 0, 0.6);
+    -pie-background:  rgba(200, 54, 54, 0.5);
+    behavior: url(PIE.htc);}
+#diva{
+    display: inline-block;width: 28%; padding: 10px; margin-top: -20px;
+}
+#divb {
+    display: inline-block;width: 28%; padding: 10px;
+}
+#divc {
+    display: inline-block;width: 28%; padding: 10px;
+}
+#contactholder p{color: white}
+/*end contact page */
+
+

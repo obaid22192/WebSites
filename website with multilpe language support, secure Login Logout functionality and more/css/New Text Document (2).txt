@@ -1,0 +1,9 @@
+#footer{
+	    margin-top:830px;
+		 margin-left:55px;
+		 margin-right:50px;
+         width:1300px;
+         height:100px;
+		 
+		 background:#0803db;
+		 }
